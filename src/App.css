@@ -72,10 +72,13 @@ div.card2{
 .title2{
   color: rgb(98, 7, 7);
   font-size: 50px;
+  text-align: center;
+  border-color: gainsboro;
 }
 .title2:hover{
   color:red;
   font-size: 60px;
+  
 }
 .ul2{
   list-style: none;
