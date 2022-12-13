@@ -1,0 +1,211 @@
+
+
+
+div.app{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-evenly;
+align-items: center;
+gap: 3rem;
+
+
+}
+div.App{
+  background-color: rgb(201, 169, 169);
+ padding: 4rem;
+  box-sizing: border-box;
+  height: 50rem;
+ 
+}
+
+div.card{
+  background-color:greenyellow;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20rem;
+  border-radius: 20%;
+  border-style: outset;
+  box-shadow: 0 0 0 1rem;
+  margin-top: 2rem;
+}
+
+.title1{
+  color: green;
+  font-size: 50px;
+}
+.title1:hover{
+  color:red;
+  font-size: 60px;
+}
+.ul1{
+  list-style: none;
+  background-color: green;
+  border-style: outset;
+  width: 10rem;
+  color: black;
+}
+li{ 
+  text-align: center;
+  margin-left: -2rem;
+  }
+
+li:hover{ 
+  text-align: center;
+  color: red;
+  }
+
+
+div.card2{
+  background-color: rgb(159, 6, 6);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20rem;
+  border-radius: 20%;
+  border-style: outset;
+  box-shadow: 0 0 0 1rem;
+}
+.title2{
+  color: rgb(98, 7, 7);
+  font-size: 50px;
+}
+.title2:hover{
+  color:red;
+  font-size: 60px;
+}
+.ul2{
+  list-style: none;
+  background-color: rgb(98, 7, 7);
+  border-style: outset;
+  width: 10rem;
+  color: black;
+}
+
+div.card3{
+  background-color: rgb(141, 141, 245);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20rem;
+  border-radius: 20%;
+  border-style: outset;
+  box-shadow: 0 0 0 1rem;
+}
+.title3{
+  color: rgb(50, 50, 162);
+  font-size: 50px;
+}
+.title3:hover{
+  color:red;
+  font-size: 60px;
+}
+.ul3{
+  list-style: none;
+  background-color:  rgb(50, 50, 162);
+  border-style: outset;
+  width: 10rem;
+  color: black;
+}
+
+div.card4{
+  background-color: rgb(228, 121, 192);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20rem;
+  border-radius: 20%;
+  border-style: outset;
+  box-shadow: 0 0 0 1rem;
+  
+}
+.title4{
+  color: rgb(106, 7, 106);
+  font-size: 50px;
+}
+.title4:hover{
+  color:red;
+  font-size: 60px;
+}
+.ul4{
+  list-style: none;
+  background-color: rgb(106, 7, 106);
+  border-style: outset;
+  width: 10rem;
+  color: black;
+}
+
+div.card5{
+  background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20rem;
+  border-radius: 20%;
+  border-style: outset;
+  box-shadow: 0 0 0 1rem;
+}
+
+.title5{
+  color: rgb(241, 108, 6);
+  font-size: 50px;
+}
+.title5:hover{
+  color:red;
+  font-size: 60px;
+}
+.ul5{
+  list-style: none;
+  background-color:  rgb(241, 108, 6);
+  border-style: outset;
+  width: 10rem;
+  color: black;
+}
+
+
+  button{
+
+    width: 10rem;
+  }
+  div.user{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+   padding: 0;
+  }
+  div.tlibre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+      padding: 0;
+     }
+
+  div.comida{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+   padding: 0;
+  }
+  div.stack{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+      padding: 0;
+     }
+     div.hob{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+        padding: 0;
+       }
