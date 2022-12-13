@@ -6,8 +6,8 @@ const Comida= ()=>{
 
   
     const comida={
-      pasta: "pasta",
-      sushi: "sushi",
+      pasta: "steak",
+      sushi: "pescado",
       hamburguesa:"hamburguesa"
     }
 

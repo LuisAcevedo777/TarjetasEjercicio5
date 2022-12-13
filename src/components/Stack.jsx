@@ -9,7 +9,7 @@ const Stack= ()=>{
   const stack={
     html: "html",
     css: "css",
-    javascript: "css"
+    javascript: "javascript"
   }
 return(
 

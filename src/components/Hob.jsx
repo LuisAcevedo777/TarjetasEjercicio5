@@ -7,9 +7,9 @@ const Hob= ()=>{
 
   
   const hob={
-    h1: "chess",
-    h2: "read",
-    h3: "sing"
+    h1: "Ajedrez",
+    h2: "Leer",
+    h3: "Ver documentales"
   }
 return(
 
